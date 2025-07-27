@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Daniel Mejía Valencia
+#  Hi, I'm Daniel Mejía Valencia
 
 🎓 **Financial Engineer** | 📊 **Data Analyst**  
 💻 Python | SQL | Jupyter | Git | Pandas | NumPy  
